@@ -1,10 +1,10 @@
 # Analyst
 
-###Education
+### Education
 
-###Work Experiences
+### Work Experiences
 Business Developer Intern @ Parkit
 - i did this
 
-  ###Projects
+  ### Projects
   - here this
