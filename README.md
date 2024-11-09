@@ -8,9 +8,10 @@
 
 ## Work Experience
 **Business Developer Intern at Parkit** (_April_2024 - September 2024_)
-- Develops and implements targeted marketing strategies
-- Maintains and strengthens existing customer relationships by responding to customer requests
-- Negotiates strategic partnerships; analyzes data to optimize marketing campaigns and improve user experience
+- Developed and executed targeted marketing strategies to drive engagement and growth
+- Strengthened client relationships by promptly addressing requests and enhancing satisfaction
+- Negotiated strategic partnerships to expand market reach and align with business goals
+- Conducted data analysis to refine marketing campaigns and enhance user experience
 
 **Import-Export Assistant Intern at Saftransport** (_April 2022 - September 2024_)
 - Prepared customs documentation and oversaw end-to-end logistics processes, ensuring accuracy and compliance.
