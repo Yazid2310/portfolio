@@ -1,6 +1,6 @@
 # Graduate student
 
-#### Technical Skills: Python, SQL, Power BI, MS-Office(Word, Powerpoint, Excel)
+#### Technical Skills: Python, SQL, Power BI, MS Office(Word, Powerpoint, Excel),MS Project
 
 ## Education
 - M.S., International Management and Business	| The University of Paris-Est Créteil (_September 2022-2024_)	 			        		
