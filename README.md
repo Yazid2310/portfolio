@@ -1,4 +1,4 @@
-# Data Scientist
+# Graduate student
 
 #### Technical Skills: Python, SQL, Power BI, MS-Office(Word, Powerpoint, Excel)
 
@@ -24,4 +24,9 @@
 
 ## Projects 
 ### E-Commerce Perfume Analysis
-  
+[Publication](https://yazid2310-perfumeanalysis-perfume-dashboard-5wnoht.streamlit.app/)
+
+The scope of the project is to identify the key features that are most effective in driving perfume sale. The analysis was done using **python** and the project is hosted on Streamlit coded with **python**.
+[Project repository](https://github.com/Yazid2310/PerfumeAnalysis)
+![Perfume](assets/img/dataset-cover.png)
+
