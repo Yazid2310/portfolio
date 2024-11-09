@@ -31,3 +31,5 @@ The scope of the project is to identify the key features that are most effective
 [Project repository](https://github.com/Yazid2310/PerfumeAnalysis)
 ![Perfume](assets/img/dataset-cover.png)
 
+##Certification
+[Datacamp](assets/img/DA%20Associate%20-%20badge%20with%20outline.png)
