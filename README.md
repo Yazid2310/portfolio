@@ -1,4 +1,5 @@
 # Graduate student
+I am a data-driven graduate in International Management and Business with a strong focus on leveraging analytical insights to drive decision-making and project success. This portfolio showcases my ability to apply structured analysis, project planning, and strategic thinking in real-world business scenarios. It highlights my expertise in project management tools and techniques, as well as my commitment to continuous improvement. As I continue to grow professionally, this portfolio will be regularly updated to reflect my evolving skills and experiences.
 
 #### Technical Skills: Python, SQL, Power BI, MS Office(Word, Powerpoint, Excel),MS Project
 
