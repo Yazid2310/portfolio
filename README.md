@@ -32,4 +32,4 @@ The scope of the project is to identify the key features that are most effective
 ![Perfume](assets/img/dataset-cover.png)
 
 ## Certification
-[Datacamp](assets/img/DA%20Associate%20-%20badge%20with%20outline.png)
+[Datacamp](assets/img/DA Associate - badge with outline.png)
