@@ -34,5 +34,8 @@ The scope of the project is to identify the key features that are most effective
 ## Supply Chain Analysis
 [Publication](https://app.powerbi.com/reportEmbed?reportId=9e3c07d5-7aca-4a67-99d2-412e95225147&autoAuth=true&ctid=144b6294-952d-4b86-87aa-aa8bf2979a47)
 
+This project aims to analyze the efficiency and financial performance of the supply chain through key metrics such as inspection results, cost analysis, and revenue generation. By leveraging data visualization tools, the project identifies bottlenecks, such as delays in inspections, and highlights areas for improvement in quality control and operational costs. The analysis also provides insights into the profitability and performance fluctuations over time, helping stakeholders make data-driven decisions to optimize the supply chain.
+![Supplychain](assets/img/datasetsupply.png)
+
 ## Certification
 ![Datacamp](assets/img/Associate.png)
