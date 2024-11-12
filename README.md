@@ -31,5 +31,8 @@ The scope of the project is to identify the key features that are most effective
 [Project repository](https://github.com/Yazid2310/PerfumeAnalysis)
 ![Perfume](assets/img/dataset-cover.png)
 
+## Supply Chain Analysis
+[Publication](https://app.powerbi.com/reportEmbed?reportId=9e3c07d5-7aca-4a67-99d2-412e95225147&autoAuth=true&ctid=144b6294-952d-4b86-87aa-aa8bf2979a47)
+
 ## Certification
 ![Datacamp](assets/img/Associate.png)
