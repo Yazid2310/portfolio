@@ -36,7 +36,7 @@ The scope of the project is to identify the key features that are most effective
 
 This project aims to analyze the efficiency and financial performance of the supply chain through key metrics such as inspection results, cost analysis, and revenue generation. By leveraging data visualization tools, the project identifies bottlenecks, such as delays in inspections, and highlights areas for improvement in quality control and operational costs. The analysis also provides insights into the profitability and performance fluctuations over time, helping stakeholders make data-driven decisions to optimize the supply chain.
 
-[Alternative option] ('Coming soon')
+(Alternative option Coming soon)
 
 ![Supplychain](assets/img/datasetsupply.png)
 
