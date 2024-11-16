@@ -1,9 +1,6 @@
 title: Yazid Aboudou
 logo: /assets/img/cropped_image2.png
 theme: jekyll-theme-minimal
-
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    inline_attribute: true
+include:
+  - assets/css/style.css
