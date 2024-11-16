@@ -40,5 +40,5 @@ This project aims to analyze the efficiency and financial performance of the sup
 
 ![Supplychain](assets/img/datasetsupply.png)
 
-### Certification
+## Certification
 ![Datacamp](assets/img/Associate.png)
