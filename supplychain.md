@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: custom
 title: Supply Chain Project
+logo: false
 ---
 
 <!DOCTYPE html>
