@@ -1,0 +1,11 @@
+img {
+    display: block;
+    margin: 0 auto; /* Center images */
+    max-width: 100%;
+    height: auto; /* Maintain aspect ratio */
+}
+
+.dashboard-img {
+    width: 100%;
+    max-width: 800px; /* Set a larger maximum width */
+}
