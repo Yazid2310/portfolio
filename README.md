@@ -32,7 +32,7 @@ The scope of the project is to identify the key features that are most effective
 ![Perfume](assets/img/dataset-cover.png)
 
 ## Supply Chain Analysis
-[Publication](https://1drv.ms/p/c/554f4d3f79821e32/EYJZi2ySsDFKh6xPpyJ_dmMBam0I1cTmuoqAJkXOGMEoow?e=esghCQ&nav=eyJzSWQiOjI1NiwiY0lkIjozMjExODU5NTQyfQ) (Need a Power BI account)
+[Publication](https://upecnumerique-my.sharepoint.com/:u:/r/personal/yazid_aboudou_etu_u-pec_fr/Documents/Supply%20chain%20analysis.pbix?csf=1&web=1&e=UxTBd7) (Need a Power BI account)
 
 This project aims to analyze the efficiency and financial performance of the supply chain through key metrics such as inspection results, cost analysis, and revenue generation. By leveraging data visualization tools, the project identifies bottlenecks, such as delays in inspections, and highlights areas for improvement in quality control and operational costs. The analysis also provides insights into the profitability and performance fluctuations over time, helping stakeholders make data-driven decisions to optimize the supply chain.
 
