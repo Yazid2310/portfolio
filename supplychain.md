@@ -1,6 +1,8 @@
-layout: default
+---
+layout: custom  # This tells Jekyll to use the custom.html layout for this page
 title: Supply Chain Project
-logo: false  # Disable the logo on this page
+logo: false  # This disables the logo for this page
+---
 
 # Supply chain analysis dashboard
 ![Dashboard](assets/img/Supplychainanalysis1.jpg)
