@@ -31,7 +31,7 @@ The scope of the project is to identify the key features that are most effective
 [Project repository](https://github.com/Yazid2310/PerfumeAnalysis)
 ![Perfume](assets/img/dataset-cover.png)
 
-## Supply Chain Analysis
+### Supply Chain Analysis
 [Publication](https://upecnumerique-my.sharepoint.com/:u:/r/personal/yazid_aboudou_etu_u-pec_fr/Documents/Supply%20chain%20analysis.pbix?csf=1&web=1&e=UxTBd7) (Need a Power BI account)
 
 This project aims to analyze the efficiency and financial performance of the supply chain through key metrics such as inspection results, cost analysis, and revenue generation. By leveraging data visualization tools, the project identifies bottlenecks, such as delays in inspections, and highlights areas for improvement in quality control and operational costs. The analysis also provides insights into the profitability and performance fluctuations over time, helping stakeholders make data-driven decisions to optimize the supply chain.
@@ -40,5 +40,5 @@ This project aims to analyze the efficiency and financial performance of the sup
 
 ![Supplychain](assets/img/datasetsupply.png)
 
-## Certification
+### Certification
 ![Datacamp](assets/img/Associate.png)
