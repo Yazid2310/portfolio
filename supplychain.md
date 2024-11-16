@@ -1,3 +1,8 @@
+---
+layout: default
+title: Supply Chain Project
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,8 +10,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Supply Chain Project</title>
 
-  <!-- Minimal theme-inspired styles -->
   <style>
+    /* Add Minimal Theme-Inspired Styles */
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
       line-height: 1.6;
@@ -15,7 +20,7 @@
       background-color: #fff;
       color: #333;
     }
-    
+
     h1 {
       text-align: center;
       color: #333;
@@ -34,7 +39,7 @@
       max-width: 700px;
       display: block;
       margin: 20px auto;
-      border-radius: 8px; /* Rounded corners to match a minimalist design */
+      border-radius: 8px;
     }
 
     p {
@@ -51,7 +56,6 @@
       color: #888;
     }
 
-    /* Responsive Design */
     @media (max-width: 768px) {
       h1 {
         font-size: 1.75rem;
@@ -65,11 +69,8 @@
 
   <div class="content">
     <p>Supply Chain Analysis Overview</p>
-    
-    <!-- Image 1 -->
-    <img src="/assets/img/supplychainanalysis1.jpg" alt="Supply Chain Analysis 1">
 
-    <!-- Image 2 -->
+    <img src="/assets/img/supplychainanalysis1.jpg" alt="Supply Chain Analysis 1">
     <img src="/assets/img/supplychainanalysis2.jpg" alt="Supply Chain Analysis 2">
   </div>
 
