@@ -45,6 +45,7 @@ This project aims to analyze the efficiency and financial performance of the sup
 This project, conducted in collaboration, focuses on analyzing and understanding Saudi Arabia's project data. The dataset includes details about various projects across different locations, their timelines, and the contact information of key personnel. The primary focus of the discussion is to explore what insights can be derived from the distribution of projects across locations and how this data can be applied in project management, business development, or regional analysis. This project will be regularly updated.
 
 [Publication](https://www.kaggle.com/datasets/mohamedramadan2040/saudi-arabia-project-data/data)
+
 ![saudi](assets/img/dataset-cover.jpeg)
 
 
