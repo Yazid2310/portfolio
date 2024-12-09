@@ -40,5 +40,12 @@ This project aims to analyze the efficiency and financial performance of the sup
 
 ![Supplychain](assets/img/datasetsupply.png)
 
-## Certification
-![Datacamp](assets/img/Associate.png)
+### Saudi Arabia Project Data
+
+This project, conducted in collaboration, focuses on analyzing and understanding Saudi Arabia's project data. The dataset includes details about various projects across different locations, their timelines, and the contact information of key personnel. The primary focus of the discussion is to explore what insights can be derived from the distribution of projects across locations and how this data can be applied in project management, business development, or regional analysis.
+
+[Publication](https://www.kaggle.com/datasets/mohamedramadan2040/saudi-arabia-project-data/data)
+
+
+
+
