@@ -45,7 +45,7 @@ As part of my academic journey in management and international business, I contr
 
 [Publication](PROJETWEBMARKETING(1).pdf)
 
-![Minds](assets/img/minds.png)
+![Minds](assets/img/Minds_logo.svg.png)
 
 
 ### Saudi Arabia Project Data
