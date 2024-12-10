@@ -41,9 +41,10 @@ This project aims to analyze the efficiency and financial performance of the sup
 ![Supplychain](assets/img/datasetsupply.png)
 
 ### Project Digital innovation post-crisis boost
+[Publication](PROJETWEBMARKETING(1).pdf)
+
 As part of my academic journey in management and international business, I contributed to a web marketing project that directly supported the implementation of the "Minds" digital platform in collaboration with its marketing team. The project focused on leveraging digital innovation and AI-driven strategies to combat misinformation and enhance communication during crises. This initiative allowed me to design and execute marketing campaigns, implement user engagement strategies, and analyze performance metrics, contributing to the platform’s effectiveness in real-world applications.
 
-[Publication](PROJETWEBMARKETING(1).pdf)
 
 ![Minds](assets/img/Minds_logo.svg.png)
 
